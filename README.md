@@ -4,6 +4,11 @@ A lightweight clinical dashboard built with FastAPI, JavaScript, and HL7 FHIR R4
 
 This project demonstrates practical healthcare interoperability skills by retrieving and displaying patient data from a public FHIR server.
 
+## Dashboard Screenshot
+
+![FHIR Dashboard](screenshots/dashboard-patient.png)
+
+
 ## Features
 
 * Patient Search & Selection
